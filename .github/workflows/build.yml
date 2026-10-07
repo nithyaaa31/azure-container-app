@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  REGISTRY: YOUR_ACR_LOGIN_SERVER
-  IMAGE_NAME: azure-container-app
+  REGISTRY: container123.azurecr.io
+  IMAGE_NAME: lab-6.2
 
 jobs:
   build-and-push:
