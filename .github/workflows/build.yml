@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  REGISTRY: container123.azurecr.io
+  REGISTRY: containerlab123.azurecr.io
   IMAGE_NAME: lab-6.2
 
 jobs:
